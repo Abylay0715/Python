@@ -102,24 +102,6 @@ cars.remove("Volvo")
 
 #Pyhton Tuples
 #ex1
-mytuple = ("apple", "banana", "cherry")
-#ex2
-thistuple = ("apple", "banana", "cherry")
-print(thistuple)
-#ex3
-thistuple = ("apple",)
-print(type(thistuple))
-
-#NOT a tuple
-thistuple = ("apple")
-print(type(thistuple))
-#ex4
-tuple1 = ("apple", "banana", "cherry")
-tuple2 = (1, 5, 7, 9, 3)
-tuple3 = (True, False, False)
-#ex5
-thistuple = tuple(("apple", "banana", "cherry")) # note the double round-brackets
-print(thistuple)
 
 #Python Sets
 #ex1

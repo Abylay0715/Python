@@ -577,9 +577,9 @@ name = input()
 av = ave(movies , name)
 print(av)
 
-classes
-classes
-ex1
+#classes
+#classes
+#ex1
 
 class stt:
     s = None
